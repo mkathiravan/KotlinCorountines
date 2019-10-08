@@ -36,7 +36,7 @@ iii) Dispatchers.Default:
 What is the difference between launch and Async in CoroutineBuilder?
 Launch returns a job and does not carry any resulting value but async returns deferred
 
-#Coroutine Dispacther
+# Coroutine Dispatcher:
 i) UIDispatcher: To dispatch execution onto the main UIThread.
 ii) BgDispatcher: To dispatch execution in the background thread.
       
