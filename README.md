@@ -41,4 +41,10 @@ i) UIDispatcher: To dispatch execution onto the main UIThread.
 ii) BgDispatcher: To dispatch execution in the background thread.
       
 
+![Screenshot_20191008-184914](https://user-images.githubusercontent.com/39657409/66402686-e2f43480-ea02-11e9-8689-1ab087deb7d7.png)
+
+![Screenshot_20191008-184926](https://user-images.githubusercontent.com/39657409/66402703-e8517f00-ea02-11e9-8f8e-5804a6946bc6.png)
+![Screenshot_20191008-184934](https://user-images.githubusercontent.com/39657409/66402722-ee476000-ea02-11e9-86a8-db2549957940.png)
+![Screenshot_20191008-184942](https://user-images.githubusercontent.com/39657409/66402737-f99a8b80-ea02-11e9-8c0e-70d0a18b2382.png)
+
 
